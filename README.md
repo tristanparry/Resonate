@@ -17,7 +17,7 @@ A reverb VST plugin for audio processing, built in the JUCE framework (C++). Can
 > >
 > > Dry
 > 
-> ![Animation](https://user-images.githubusercontent.com/64918749/149685108-049b2d90-fa76-460d-bbcb-5be47c89e8e0.gif)
+> ![Animation1](https://user-images.githubusercontent.com/64918749/149685446-57a01ec6-6ae5-45db-8af7-4f1f0e0ebae2.gif)
 > 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
